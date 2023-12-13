@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T13:07:58.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wLDvHRb8ryigfGXa9NHn" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T07:01:48.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VdIeRW1AcCf0C1vzOYSI" version="22.1.7" type="github">
   <diagram name="Page-1 的副本" id="eUShnUukef-zc76YGlRi">
     <mxGraphModel dx="954" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
             <mxPoint x="300" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="At50GQfwFZ2RmMRaV7AC-45" value="15.返回Authentication认证对象" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="At50GQfwFZ2RmMRaV7AC-44">
+        <mxCell id="At50GQfwFZ2RmMRaV7AC-45" value="15.返回Authentication认证对象,并设置到SecurityContext中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="At50GQfwFZ2RmMRaV7AC-44">
           <mxGeometry x="0.3505" y="-2" relative="1" as="geometry">
             <mxPoint x="86" y="-8" as="offset" />
           </mxGeometry>
