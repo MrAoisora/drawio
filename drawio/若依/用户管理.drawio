@@ -1,0 +1,141 @@
+<mxfile host="app.diagrams.net" modified="2024-01-06T10:11:58.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xGV8iYe00_Yr6H9aywXY" version="22.1.16" type="github">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="954" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="97OE2iCurwB_TDhvjDrb-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=0;" parent="1" source="3" target="97OE2iCurwB_TDhvjDrb-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97OE2iCurwB_TDhvjDrb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=0;" parent="1" source="3" target="97OE2iCurwB_TDhvjDrb-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97OE2iCurwB_TDhvjDrb-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;curved=0;" parent="1" source="3" target="97OE2iCurwB_TDhvjDrb-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="用户管理 " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="662" y="345.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="用户新增" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="282" y="625.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="用户删除" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="552" y="625.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="用户修改" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="830" y="625.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="用户列表查询 &#xa;(system/user/list)" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1092" y="625.5" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="8" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="552" y="555.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="23" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="972" y="555.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="13" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="652" y="555.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" target="18" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="772" y="550" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="942" y="555.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97OE2iCurwB_TDhvjDrb-55" value="部门管理列表查询&#xa;(system/dept/deptTree)" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97OE2iCurwB_TDhvjDrb-61" value="用户列表导出" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97OE2iCurwB_TDhvjDrb-63" value="用户列表导入" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="170" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-57" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KxgZgCDPiJ_4J0MMUrAq-60" target="KxgZgCDPiJ_4J0MMUrAq-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-79" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KxgZgCDPiJ_4J0MMUrAq-78">
+          <mxGeometry x="-0.4286" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-60" value="接口实现是否有@DataScope注解" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1550" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-67" value="前端上送参数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-68" value="后端接收请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-69" value="调用PageUtils.starPage()方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-70" value="调用TabeSuppor提供的buildPageRequest方法从请求中获取参数并封装成PageDomain对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-71" value="调用BaseCon&lt;br&gt;troller&lt;br&gt;.starPage()方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-72" value="获取PageDomain对象,再获取分页参数,将获取到的分页参数作为PageHelper提供的starPage方法中的入参" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-73" value="结束starPage方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-74" value="userService.selectUserList(user)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-75" value="这一步可以理解将分页参数存储到本店线程变量ThreadLocal中,由于实现了mybatis的拦截器之后再从Threadlocal中获取分页参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1275" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-77" value="通过切面DataScopeAspect拦截判断" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-80" value="经过一系列的处理,最终将需要拼接的sql封装到params中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-81" value="mybatis开始执行拼接预编译语句,t通过$拼接sql语句" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-82" value="由于PagerHelper实现了拦截器会拦截select的相关语句拼接从threadlocal中获取参数并进行sql语句拼接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-83" value="查询数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="2090" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-84" value="规范分页数据返回,需要封装自定义的TableInfo对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="2180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxgZgCDPiJ_4J0MMUrAq-85" value="响应客户端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="2270" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
